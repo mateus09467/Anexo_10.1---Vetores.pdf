@@ -3,7 +3,7 @@
 int main() {
     char nomes[5][20];
     int idades[5];
-    int i, qtde = 2;
+    int i, qtde = 5;
 
     for (i = 0; i < qtde; i++) {
         printf("Entre com o nome da pessoa %d: ", i + 1);
